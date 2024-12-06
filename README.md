@@ -1,5 +1,5 @@
 # API Expense controller 
-Many people that i know, has problems to manage or controll your cash so, i made this api to practice and help peolpe to manage and controller their expenses better. User can, create a new expense, get all expenses it have, update or delete some expense he want. Manage your cash or expenses.
+Many people that i know, has problems to manage or controll your cash so, i made this api to practice and help peolpe to manage and controller their expenses better. User can, create a new expense, get all expenses it have, update or delete some expense he want. Manage your cash or expenses, await for api's frontend.
 
 <img src="/src/media/Captura de ecrã 2024-12-05 181400.png">
 
